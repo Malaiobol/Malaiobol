@@ -8,6 +8,6 @@
 
 ### Atualmente estudando: 
 
-![Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Skills](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 Sou apaixonado por desenvolver e codificar as soluções que me apresentam, com a finalidade de melhorar a qualidade de vida das pessoas ao redor do mundo!
