@@ -1,6 +1,6 @@
 ### Muito prazer👋! Me chamo Edmilson e sou Desenvolvedor Web
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malaiobol&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edmilson_Junior&show_icons=true&theme=radical)
 
 ## 🖥️ Minhas principais tecnologias são:
 
