@@ -18,7 +18,7 @@ Minha paixão é desenvolver soluções tecnológicas que impactam positivamente
 
 ## 💼 Experiência Profissional
 
-**Tech Lead FullStack | OS-Sistemas**
+**Tech Lead FullStack | OS Excelência Operacional**
 - 👥 Liderança e mentoria de equipe com 5 desenvolvedores
 - 🏗️ Arquitetura e migração de monolitos para microservices
 - 📊 Gestão de projetos de ERP com foco em resultados e qualidade
