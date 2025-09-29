@@ -1,6 +1,6 @@
 ## 🚀 Sobre Mim
 
-Sou um **Tech Lead FullStack** especializado em desenvolvimento de ERPs e soluções corporativas robustas. Atuo na **OS-Sistemas** liderando uma equipe de 6 desenvolvedores, focando na transformação digital através de arquiteturas modernas e práticas ágeis.
+Sou um **Tech Lead FullStack** especializado em desenvolvimento de ERPs e soluções corporativas robustas. Atuo na **Ouro Safra** liderando uma equipe de 6 desenvolvedores, focando na transformação digital através de arquiteturas modernas e práticas ágeis.
 
 Minha paixão é desenvolver soluções tecnológicas que impactam positivamente a vida das pessoas e organizações, combinando expertise técnica sólida com liderança orientada a resultados e desenvolvimento humano.
 
