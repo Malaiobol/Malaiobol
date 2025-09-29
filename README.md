@@ -49,17 +49,17 @@ Minha paixão é desenvolver soluções tecnológicas que impactam positivamente
 
 ### 🏢 **SGI - Sistema de Gestão Integrada**
 Migração completa de monolito para arquitetura de microservices, resultando em:
-- **50% de melhoria** na performance
-- **Escalabilidade horizontal** para múltiplos clientes
-- **Redução de 70%** no tempo de deploy
-- **Arquitetura resiliente** com alta disponibilidade
+- Melhoria na performance
+- Escalabilidade Horizontal para múltiplos clientes
+- Redução no tempo de deploy
+- Arquitetura resiliente com alta disponibilidade
 
 ### 🔐 **Sistema de Autenticação Distribuído**
 Implementação de autenticação JWT/OAuth2 para microservices:
-- **Single Sign-On (SSO)** para múltiplas aplicações
-- **Segurança avançada** com RSA e JWE
-- **Session management** otimizado
-- **Alta performance** com cache distribuído
+- Single Sign-On (SSO) para múltiplas aplicações
+- Segurança avançada com RSA e JWE
+- Session management otimizado
+- Alta performance com cache distribuído
 
 ## 💡 Filosofia de Trabalho
 
